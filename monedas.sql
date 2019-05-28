@@ -1,0 +1,1 @@
+SELECT * FROM Monedas.monedasdiez;
